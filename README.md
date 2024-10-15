@@ -6,13 +6,13 @@
 
 ## Contexte
 L'ONG Drinking Water For All (DWFA) a pour ambition de fournir un **accès à l'eau potable** dans le monde entier.
-Pour atteindre accompagner cette ambition, l'ONG intervient dans trois domaines d'expertises à destination des pays :
+Pour atteindre cette ambition, l'ONG intervient dans trois domaines d'expertises à destination des pays :
 - **Création de services** sécurisés d'accès à l'eau potable
 - **Modernisation des services / structures** d'accès à l'eau potable
 - **Consulting** sur les politiques d'accès à l'eau potable
 
 Cette ONG a réalisé une demande de financement qui va probablement aboutir. Afin de réaliser/accompagner des actions 
-dans ces domaines de compétence, l'ONG souhaite disposer d'un outil d'aide à la décision pour le choix des futurs **pays bénéficiaires potentiels** de ces actions de DWFA.
+dans ces domaines de compétence, l'ONG souhaite disposer d'un outil d'aide à la décision pour le choix des **potentiels pays bénéficiaires** de ces actions de DWFA.
 
 ## Objectif
 Elaborer des tableaux de bord pour synthétiser et présenter différents indicateurs-clés afin de choisir les futurs bénéficiaires des actions de DWFA.
